@@ -15,7 +15,7 @@ Python, Swift, TypeScript, JavaScript
 ## Tools
 Maven, Gradle, FPGA and microcontrollers, Scrum, Git
 
-## Conntacts
+## Contacts
 [LinkedIn](https://se.linkedin.com/in/theodor-ahlgren)
 
 [Email Me](mailto:theodor17.ahlgren@gmail.com)
