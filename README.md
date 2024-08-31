@@ -1,13 +1,11 @@
 ### Hello 👋 My name is Theo.
 
 ## About me
-👨‍🎓 Computer Engineering Student set to graduate in the summer 2024.
-
-💻 I'm interested in backend development and low-level programming.
+👨‍🎓 I have a BSc. in Comp. Engineering and work as a software developer.
 
 ## Programming languagues
 #### Most experience
-Java, C, SQL, VHDL
+Java, C, SQL, VHDL, C++
 
 #### Some experience
 Python, Swift, TypeScript, JavaScript
